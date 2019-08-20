@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Martin Leipert - Medizintechnik MSc
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -68,16 +68,15 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "kontakt@martin-leipert.de"
+  github: martinleipert
+  twitter: martinleipert
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: martinleipert
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888

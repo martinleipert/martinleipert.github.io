@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About me
+title: Martin Leipert - Medical Engineering MSc
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi I am Martin Leipert,
+I am of course a passionate Coder. Always open to new topics, especially in the area of Medical Informatics.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Education
 
-What else do you need?
+### Medical Engineering MSc
+October 2016 - August 2019 @ FAU Erlangen-Nuremberg 
 
-### my history
+### Medical Engineering B.Eng.
+October 2012 - April 2016 @ TH Nuremberg 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
- 
