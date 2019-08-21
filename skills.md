@@ -42,7 +42,7 @@ Good at Coordinating <br />
 *I am member of the executive board of the local Jusos (Young Socialists) and Social Democratic Party.*
 
 Proactive Working Manner <br />
-*I know how to solve my problems, where and when I need to search for help.*
+*I know how to solve my problems, where and when I need to search for help. And I know how to solve them effectively.*
 
 Coding Guru <br />
 *As a working student I was often consulted by others who had a problem. I was able to solve the problem and to explain it in a proper manner.*
