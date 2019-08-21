@@ -31,9 +31,18 @@ DenseNet 121    | moderate warp   | Negative Log Likelihood     | 0.942         
 
 ### Selected Segmentation Results
 
-<img src="img/0745_focal.png" alt="Focal Loss" width="250"/>
-<img src="img/0745_bce.png" alt="BCE Loss" width="250"/>
-<img src="img/0745_dice.png" alt="Dice Loss" width="250"/>
+<table>
+<tr>
+    <th><img src="img/0745_focal.png" alt="Focal Loss" width="200"/></th>
+    <th><img src="img/0745_bce.png" alt="BCE Loss" width="200"/></th>
+    <th><img src="img/0745_dice.png" alt="Dice Loss" width="200"/></th>
+</tr>
+<tr>
+    <th>Focal Loss</th>
+    <th>BCE Loss</th>
+    <th>Dice Loss</th>
+  </tr>
+</table>
 
 Red is background, green is text and blue is the notary sign.
 Although the result of Focal Loss seem bad at first glance, after applying the softmax they were equal / better than bce and dice loss.
