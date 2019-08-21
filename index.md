@@ -31,16 +31,16 @@ DenseNet 121    | moderate warp   | Negative Log Likelihood     | 0.942         
 
 ### Selected Segmentation Results
 
-<table>
+<table width="100%">
 <tr>
-    <th><img src="img/0745_focal.png" alt="Focal Loss" width="200"/></th>
-    <th><img src="img/0745_bce.png" alt="BCE Loss" width="200"/></th>
-    <th><img src="img/0745_dice.png" alt="Dice Loss" width="200"/></th>
+    <th><img src="img/0745_focal.png" alt="Focal Loss" width="100%"/></th>
+    <th><img src="img/0745_bce.png" alt="BCE Loss" width="100%"/></th>
+    <th><img src="img/0745_dice.png" alt="Dice Loss" width="100%"/></th>
 </tr>
 <tr>
-    <th>Focal Loss</th>
-    <th>BCE Loss</th>
-    <th>Dice Loss</th>
+    <th align="center">Focal Loss</th>
+    <th align="center">BCE Loss</th>
+    <th align="center">Dice Loss</th>
   </tr>
 </table>
 
