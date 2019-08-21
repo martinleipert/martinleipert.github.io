@@ -4,7 +4,7 @@
 ### Education
 
 #### Medical Engineering MSc – Ø 1.9
-October 2016 - August 2019 @ FAU Erlangen-Nuremberg :de:
+October 2016 - August 2019 @ FAU Erlangen-Nuremberg, Erlangen :de:
 * Machine Learning
 * Medical Image Processing
 * Computer Vision
@@ -25,7 +25,7 @@ August 2018 - December 2018 @ Universidad de La Serena, La Serena 🇨🇱
 * Project Evaluation
 
 #### Medical Engineering B.Eng. – Ø 1.7
-October 2012 - April 2016 @ TH Nuremberg 
+October 2012 - April 2016 @ TH Nuremberg, Nuremberg :de: 
 * Electrical Engineering
 * Signal Processing
 * Coding and Software Development
@@ -76,7 +76,6 @@ Project Work from 02/2015 to 07/2015 at City of Nuremberg
 
 #### A Mixed Reality Simulation for Robotic Systems 
 Leipert M., Jenny Sadowski, Kießling M., Kwemou-Ngandeu M., Maier A.
-Bildverarbeitung für die Medizin 2019, Wiesbaden, Springer Fachmedien, 2019
-
+Bildverarbeitung für die Medizin 2019, Wiesbaden, Springer Fachmedien, 2019 [Springer Link](https://link.springer.com/chapter/10.1007/978-3-658-25326-4_49)
 
  
