@@ -22,6 +22,7 @@ Based on the desktop project i created a visulization for the Microsoft HoloLens
 " target="_blank"><img src="http://img.youtube.com/vi/9MjZfvcG7JE/0.jpg" 
 alt="Augmented Reality Visualization for Microsoft HoloLens" width="100%" border="10" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Additionally, I evaluated if real rooms could be integrated into the simulations collision model.
 
