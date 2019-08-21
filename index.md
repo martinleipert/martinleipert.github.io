@@ -11,18 +11,14 @@ You will finde my CV [here](curriculum) or you can download it here as [PDF](fil
 
 # Example Projects
 
-What I already worked with? The answer is here. 
+To showcase what I already did, I provide you three example projects of mine here. They were selected from the areas of Augmented Reality, Image Processing and Deep Learning.
 
 ## Augmented Reality 
 
 I developed a Unity visualization for a robotic simulation. The simulation uses untextured CAD Files. 
 Based on the desktop project i created a visulization for the Microsoft HoloLens. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9MjZfvcG7JE
-" target="_blank"><img src="http://img.youtube.com/vi/9MjZfvcG7JE/0.jpg" 
-alt="Augmented Reality Visualization for Microsoft HoloLens" width="100%" border="10" /></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Additionally, I evaluated if real rooms could be integrated into the simulations collision model.
 
@@ -61,3 +57,18 @@ Although the result of Focal Loss seem bad at first glance, after applying the s
 ## Image Registration
 
 In my Bachelor's thesis I worked on a modification of an image registration algorithm. It is designed for real time 2D-2D-Registration in Digital Subtraction Angiography.
+I implemented a coordinate transform within the algorithm and evaluated it's influence on computation time and stability of the optimisation. 
+The images below are for illustration.
+
+<table width="100%">
+<tr>
+    <th><img src="img/Vor_DSA.jpg" alt="Before DSA" width="100%"/></th>
+    <th><img src="img/Original_DSA.png" alt="Without Registration" width="100%"/></th>
+    <th><img src="img/SSD_Differenz.png" alt="With Registration" width="100%"/></th>
+</tr>
+<tr>
+    <th align="center">Before DSA</th>
+    <th align="center">Without Registration</th>
+    <th align="center">With Registration</th>
+  </tr>
+</table>
