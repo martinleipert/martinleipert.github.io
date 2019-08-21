@@ -38,26 +38,17 @@ French          | ■■■■
 Russian         | ■■
 
 ## Soft Skills
-Good at Coordinating
-
+Good at Coordinating <br />
 *I am member of the executive board of the local Jusos (Young Socialists) and Social Democratic Party.*
 
-
-Proactive Working Manner
-
+Proactive Working Manner <br />
 *I know how to solve my problems, where and when I need to search for help.*
 
-
-Coding Guru
-
+Coding Guru <br />
 *As a working student I was often consulted by others who had a problem. I was able to solve the problem and to explain it in a proper manner.*
 
-
-Communication
-
+Communication <br />
 *As a member of local Young Socialists I am especially responsible for social media, homepage and for press contact.*
 
-
-Always open
-
+Always open <br />
 *I like to discover new places, cultures and people.*
