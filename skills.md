@@ -17,13 +17,20 @@ JavaScript      | ■■■■
 ## Areas of Interest
 
 Software Development
+
 Computer Graphics
+
 Medical Image Processing
+
 Machine Learning
-Numerical Mathematics
-Computer Vision
+
+Numerical Mathematics 
+
+Computer Vision 
+
 
 ## Languages
+
 German          | ■■■■■■■■■■■■
 English         | ■■■■■■■■■■
 Spanish         | ■■■■■■■■

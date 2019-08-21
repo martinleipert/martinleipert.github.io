@@ -63,8 +63,8 @@ The images below are for illustration.
 <table width="100%">
 <tr>
     <th><img src="img/Vor_DSA.jpg" alt="Before DSA" width="100%"/></th>
-    <th><img src="img/DSA_Original.jpg" alt="Without Registration" width="100%"/></th>
-    <th><img src="img/SSD_Differenz.jpg" alt="With Registration" width="100%"/></th>
+    <th><img src="img/DSA_Original.jpg" alt="Without Registration" width="50%"/></th>
+    <th><img src="img/SSD_Differenz.jpg" alt="With Registration" width="50%"/></th>
 </tr>
 <tr>
     <th align="center">Before DSA</th>
