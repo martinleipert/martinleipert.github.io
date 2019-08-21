@@ -16,7 +16,13 @@ What I already worked with? The answer is here.
 ## Augmented Reality 
 
 I developed a Unity visualization for a robotic simulation. The simulation uses untextured CAD Files. 
-From the visulization I created a 
+Based on the desktop project i created a visulization for the Microsoft HoloLens. 
+
+[![Augmented Reality Visualization for Microsoft HoloLens](http://img.youtube.com/vi/9MjZfvcG7JE/0.jpg)](https://youtu.be/9MjZfvcG7JE) 
+
+Additionally, I evaluated if real rooms could be integrated into the simulations collision model.
+
+[Meeting Room measured with HoloLens](img/room_measured.png)
 
 ## Deep Learning
 
