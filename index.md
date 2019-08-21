@@ -18,7 +18,7 @@ To showcase what I already did, I provide you three example projects of mine her
 I developed a Unity visualization for a robotic simulation. The simulation uses untextured CAD Files. 
 Based on the desktop project i created a visulization for the Microsoft HoloLens. 
 
-<iframe width="720" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Additionally, I evaluated if real rooms could be integrated into the simulations collision model.
 
@@ -63,8 +63,8 @@ The images below are for illustration.
 <table width="100%">
 <tr>
     <th><img src="img/Vor_DSA.jpg" alt="Before DSA" width="100%"/></th>
-    <th><img src="img/Original_DSA.png" alt="Without Registration" width="100%"/></th>
-    <th><img src="img/SSD_Differenz.png" alt="With Registration" width="100%"/></th>
+    <th><img src="img/DSA_Original.jpg" alt="Without Registration" width="100%"/></th>
+    <th><img src="img/SSD_Differenz.jpg" alt="With Registration" width="100%"/></th>
 </tr>
 <tr>
     <th align="center">Before DSA</th>
