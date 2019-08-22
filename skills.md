@@ -31,6 +31,8 @@ Computer Vision
 
 ## Languages
 
+I am a language enthusiast and like to learn them. They open the door to different cultures. I appreciate the experiences I had and the people I learned to know thanks to language knowledge.
+
 German          | ■■■■■■■■■■■■
 English         | ■■■■■■■■■■
 Spanish         | ■■■■■■■■
