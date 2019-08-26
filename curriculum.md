@@ -7,10 +7,11 @@ subtitle: Where do I come from
 ## Personal Data
 
 Martin Leipert
-born 01. October 1993 in Forchheim 🇩🇪 
-grown up in Gräfenberg 🇩🇪
-partially argentinian roots 🇦🇷
+born 01. October 1993 in Forchheim 🇩🇪 <br />
+grown up in Gräfenberg 🇩🇪 <br />
+partially argentinian roots 🇦🇷 <br />
 
+---------------------------------------
 ## Education
 
 ### Medical Engineering MSc – Ø 1.9
@@ -47,6 +48,8 @@ Optimisation of an Algorithm for Motion Compensation in Digital Subtraction Angi
 * 2D-2D-Registration of X-Ray images
 * Evaluation on clinical data
 
+---------------------------------------
+
 ## Career
 
 ### Working Student
@@ -73,6 +76,8 @@ From 10/2014 to 01/2015 @ Nuremberg Institute of Technology
 From 04/2014 to 08/2014 @ Siemens Sector Healthcare, Forchheim
 * Evaluation of an algorithm for motion compensation in Digital Subtraction Angiography
 
+---------------------------------------
+
 ## Student Projects
 
 ### Detection and Segmentation of Medieval Notary Certificates with Deep Learning
@@ -81,11 +86,16 @@ Research Internship from 04/2019 to 08/2019 @ Pattern Recognition Lab, FAU Erlan
 ### A Future-Orientated Network Infrastructure for Pedagogic Networks at Schools
 Project Work from 02/2015 to 07/2015 @ City of Nuremberg
 
+---------------------------------------
+
 ## Publications 
 
 ### A Mixed Reality Simulation for Robotic Systems 
 Leipert M., Jenny Sadowski, Kießling M., Kwemou-Ngandeu M., Maier A.
 Bildverarbeitung für die Medizin 2019, Wiesbaden, Springer Fachmedien, 2019 [Springer Link](https://link.springer.com/chapter/10.1007/978-3-658-25326-4_49)
+
+
+---------------------------------------
 
 ## Awards
 
