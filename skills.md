@@ -16,22 +16,22 @@ JavaScript      | ■■■■
 
 ## Areas of Interest
 
-Software Development
+* Software Development
 
-Computer Graphics
+* Computer Graphics
 
-Medical Image Processing
+* Medical Image Processing
 
-Machine Learning
+* Machine Learning
 
-Numerical Mathematics 
+* Numerical Mathematics 
 
-Computer Vision 
+* Computer Vision 
 
 
 ## Languages
 
-I am a language enthusiast and like to learn them. They open the door to different cultures. I appreciate the experiences I had and the people I learned to know thanks to language knowledge.
+I am a language enthusiast and like to learn them. They open the door to different cultures. I appreciate the experiences I had and the people I learned to know thanks to my language knowledge.
 
 German          | ■■■■■■■■■■■■
 English         | ■■■■■■■■■■
@@ -54,3 +54,18 @@ Communication <br />
 
 Always open <br />
 *I like to discover new places, cultures and people.*
+
+Persistent <br />
+*I never give up when I have a problem, I will solve it for sure!*
+
+Reliable <br />
+*I keep my promises and you can count on me, if I've given you my word.*
+
+Curious <br />
+*I am always willing to learn.*
+
+Understanding <br />
+*I grasp things rapidly and can deal with new situations without problems.*
+
+Constructive <br />
+*I learn from feedback and I give feedback.*

@@ -5,28 +5,26 @@ subtitle: - Medical Engineering MSc Graduate
 ---
 
 Hi I am Martin Leipert,
-being a passionate Coder, I am looking for new opportunities. Always open to new topics, especially in the area of Medical Informatics. You will find my CV and some example projects of mine here.
-
-You will finde my CV [here](curriculum) or you can download it here as [PDF](files/curriculum.pdf).
+being a passionate Coder, I am looking for new opportunities. Always open to new topics, especially in the area of Medical Informatics. You will finde my CV [here](curriculum) or you can download it here as [PDF](files/curriculum.pdf).
 
 # Example Projects
 
-To showcase what I already did, I provide you three example projects of mine here. They were selected from the areas of Augmented Reality, Image Processing and Deep Learning.
+Here I provide you three example projects of mine. They are selected from the areas of Augmented Reality, Image Processing and Deep Learning.
 
 ## Augmented Reality 
 
-I developed a Unity visualization for a robotic simulation. The simulation uses untextured CAD Files. 
-Based on the desktop project i created a visulization for the Microsoft HoloLens. 
+I developed a Unity visualization for a robotic simulation. The simulation uses untextured CAD Files of robotic systems, to simulate their kinematics. 
+Based on the desktop project, I created a visualization for the Microsoft HoloLens. All calculations of the simulation are done on the desktop Backend. Communication with the HoloLens visualization is done via gRPC.
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Additionally, I evaluated if real rooms could be integrated into the simulations collision model.
+Additionally, I evaluated if real rooms could be integrated into the simulations collision model. As one can see below (from a very early stage plot) it likely works.
 
 ![Meeting Room measured with HoloLens](img/room_measured.png)
 
 ## Deep Learning
 
-In my research intern at the Pattern Recognition Lab at FAU Erlangen-Nuremberg I trained Neural Networks to retrieve medieval notary documents from a large document collection. In the collection only about 3.2 % are notary documents, so in training and retrieval class imbalance is quite severe. Additionally I trained a network (U-Net) to segment them. In both settings I used oversampling, different (dynamic) augmentations and loss functions (Cross Entropy, Negative Log Likelihood) to counter the class imbalance in segmentation and retrieval. 
+In my research intern at the Pattern Recognition Lab at FAU Erlangen-Nuremberg, I trained Neural Networks to retrieve medieval notary documents from a large document collection. In the collection only about 3.2 % of all documents are notary documents. Consequently, in training and retrieval class imbalance is quite severe. Additionally I trained a network (U-Net) to segment them. In both settings I used oversampling, different (dynamic) augmentations and loss functions (Cross Entropy, Negative Log Likelihood) to counter the class imbalance in segmentation and retrieval. For the dynamic augmentations I mainly used the Albumentations framework. 
 
 ### Best Settings for Classification
 
@@ -50,7 +48,7 @@ DenseNet 121    | moderate warp   | Negative Log Likelihood     | 0.942         
   </tr>
 </table>
 
-Red is background, green is text and blue is the notary sign.
+In the segmentation plots, red is background, green is text and blue is the notary sign.
 Although the result of Focal Loss seem bad at first glance, after applying the softmax they were equal / better than bce and dice loss.
  
 
@@ -58,7 +56,7 @@ Although the result of Focal Loss seem bad at first glance, after applying the s
 
 In my Bachelor's thesis I worked on a modification of an image registration algorithm. It is designed for real time 2D-2D-Registration in Digital Subtraction Angiography.
 I implemented a coordinate transform within the algorithm and evaluated it's influence on computation time and stability of the optimisation. 
-The images below are for illustration.
+The images below are for illustration of the registration.
 
 <table width="100%">
 <tr>
