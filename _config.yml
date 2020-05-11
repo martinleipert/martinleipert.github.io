@@ -55,7 +55,7 @@ footer-link-col: "#202020"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: martinleipert
+author: 
   name: Martin Leipert
 
 # Select your active Social Network Links.
