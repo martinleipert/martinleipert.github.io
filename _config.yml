@@ -1,11 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Martin Leipert - Medical Engineering MSc
+title: Martin Leipert MSc
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
+description: Devout researcher in Computed Tomography, Computer Vision and Machine Learning. Currently at Fraunhofer CTMT in Deggendorf. 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -56,7 +55,7 @@ footer-link-col: "#202020"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: martinleipert
   name: Martin Leipert
 
 # Select your active Social Network Links.
@@ -64,7 +63,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  rss: true
   email: "kontakt@martin-leipert.de"
   github: martinleipert
   twitter: martinleipert
@@ -76,7 +75,7 @@ social-network-links:
   instagram: martinleipert
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +49 1577 8309855
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
