@@ -4,8 +4,10 @@ title: Martin Leipert MSc
 subtitle: - Researcher in Industrial Computed Tomography
 ---
 
-Hi I am Martin Leipert,
-being a passionate Coder and Researcher. Interested mainly in Medical Informatics, Image Processing and Deep Learning, I am looking for new opportunities. 
+Hi,
+
+I am Martin Leipert,
+a passionate Coder and Researcher in Industrial COmputed Tomography applications. Interested mainly in Medical Informatics, Image Processing and Deep Learning, I am looking for new opportunities. 
 You will find more about me in my CV [here](curriculum), which you can download here as [PDF](files/curriculum.pdf).
 
 # Example Projects
