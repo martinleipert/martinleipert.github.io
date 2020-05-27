@@ -27,7 +27,7 @@ Additionally, I evaluated if real rooms could be integrated into the simulations
 ![Meeting Room measured with HoloLens](img/room_measured.png)
 
 
-## Classification & Segmentation Notary Certificates
+## Notary Certificates Recognition & Layout Processing using Deep Learning
 
 In my research intern at the Pattern Recognition Lab at FAU Erlangen-Nuremberg, I trained Neural Networks to retrieve medieval notary documents from a large document collection. In the collection only about 3.2 % of all documents are notary documents. Consequently, in training and retrieval class imbalance is quite severe. Additionally I trained a network (U-Net) to segment them. In both settings I used oversampling, different (dynamic) augmentations and loss functions (Cross Entropy, Negative Log Likelihood) to counter the class imbalance in segmentation and retrieval. For the dynamic augmentations I mainly used the Albumentations framework. 
 
