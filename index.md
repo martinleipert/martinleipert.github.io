@@ -20,11 +20,12 @@ Here I provide you three example projects of mine. They are selected from the ar
 I developed a Unity visualization for a robotic simulation. The simulation uses untextured CAD Files of robotic systems, to simulate their kinematics. 
 Based on the desktop project, I created a visualization for the Microsoft HoloLens. All calculations of the simulation are done on the desktop Backend. Communication with the HoloLens visualization is done via gRPC.
 
-<iframe height="720px" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/9MjZfvcG7JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Additionally, I evaluated if real rooms could be integrated into the simulations collision model. As one can see below (from a very early stage plot) it likely works.
 
 ![Meeting Room measured with HoloLens](img/room_measured.png)
+
 
 ## Deep Learning
 
