@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Martin Leipert 
-subtitle: - Medical Engineering MSc Graduate
+title: Martin Leipert MSc 
+subtitle: - Researcher in Industrial Computed Tomography
 ---
 
 Hi I am Martin Leipert,
-being a passionate Coder, I am looking for new opportunities. Always open to new topics, especially in the area of Medical Informatics. You will finde my CV [here](curriculum) or you can download it here as [PDF](files/curriculum.pdf).
+being a passionate Coder and Researcher. Interested mainly in Medical Informatics, Image Processing and Deep Learning, I am looking for new opportunities. 
+You will find more about me in my CV [here](curriculum), which you can download here as [PDF](files/curriculum.pdf).
 
 # Example Projects
 
