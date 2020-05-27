@@ -11,7 +11,7 @@ I am Martin Leipert,
 a passionate Coder and Researcher in Industrial COmputed Tomography applications. Interested mainly in Medical Informatics, Image Processing and Deep Learning, I am looking for new opportunities. 
 You will find more about me in my CV [here](curriculum), which you can download here as [PDF](files/curriculum.pdf).
 
-# My Projects
+# My Experiences & Projects
 
 Here I provide you three example projects of mine. They are selected from the areas of Augmented Reality, Image Processing and Deep Learning.
 
@@ -27,18 +27,20 @@ Additionally, I evaluated if real rooms could be integrated into the simulations
 ![Meeting Room measured with HoloLens](img/room_measured.png)
 
 
-## Notary Certificates Recognition & Layout Processing using Deep Learning
+## Deep Learning 
 
 In my research intern at the Pattern Recognition Lab at FAU Erlangen-Nuremberg, I trained Neural Networks to retrieve medieval notary documents from a large document collection. In the collection only about 3.2 % of all documents are notary documents. Consequently, in training and retrieval class imbalance is quite severe. Additionally I trained a network (U-Net) to segment them. In both settings I used oversampling, different (dynamic) augmentations and loss functions (Cross Entropy, Negative Log Likelihood) to counter the class imbalance in segmentation and retrieval. For the dynamic augmentations I mainly used the Albumentations framework. 
 
-### Best Settings for Classification
+### Notary Certificates
+
+#### Best Settings for Classification
 
 Network         | Augmentation    | Loss                        | Sensitivity   | Specifity | F-Value   | 
 ---------------:|:---------------:|:---------------------------:|:-------------:|:---------:|:---------:|
 ResNet 50       | moderate 		  | Cross-Entropy               | 0.938         | 0.959     | 0.949     |
 DenseNet 121    | moderate    	  | Cross-Entropy     			| 0.942         | 0.971     | 0.956     |
 
-### Selected Segmentation Results
+#### Selected Segmentation Results
 
 <table width="100%">
 <tr>
