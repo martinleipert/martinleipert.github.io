@@ -6,11 +6,12 @@ subtitle: - Researcher in Industrial Computed Tomography
 
 Hi,
 
+Welcome to my research page. 
 I am Martin Leipert,
 a passionate Coder and Researcher in Industrial COmputed Tomography applications. Interested mainly in Medical Informatics, Image Processing and Deep Learning, I am looking for new opportunities. 
 You will find more about me in my CV [here](curriculum), which you can download here as [PDF](files/curriculum.pdf).
 
-# Example Projects
+# My Projects
 
 Here I provide you three example projects of mine. They are selected from the areas of Augmented Reality, Image Processing and Deep Learning.
 
@@ -33,8 +34,8 @@ In my research intern at the Pattern Recognition Lab at FAU Erlangen-Nuremberg, 
 
 Network         | Augmentation    | Loss                        | Sensitivity   | Specifity | F-Value   | 
 ---------------:|:---------------:|:---------------------------:|:-------------:|:---------:|:---------:|
-ResNet 50       | moderate warp   | Cross-Entropy               | 0.938         | 0.959     | 0.949     |
-DenseNet 121    | moderate warp   | Negative Log Likelihood     | 0.942         | 0.971     | 0.956     |
+ResNet 50       | moderate 		  | Cross-Entropy               | 0.938         | 0.959     | 0.949     |
+DenseNet 121    | moderate    	  | Cross-Entropy     			| 0.942         | 0.971     | 0.956     |
 
 ### Selected Segmentation Results
 
