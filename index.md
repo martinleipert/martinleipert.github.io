@@ -1,7 +1,3 @@
----
-layout: default
-title: Curriculum Vitae
----
 
 <div class="two-columns">
   <img src="/images/CV-Foto.jpg" alt="Martin Leipert">
@@ -43,7 +39,8 @@ title: Curriculum Vitae
     Siemens Healthineers, Forchheim (05/2019 - 11/2017)
 
   ## Contact
-  - **Email**: your.email@example.com  
-  - **GitHub**: [github.com/yourgithub](https://github.com/yourgithub)
+  - **Email**: martin.leipert@t-online.de
+  - **GitHub**: [github.com/yourgithub](https://github.com/martinleipert)
+  - **LinkedIn**: (https://www.linkedin.com/in/martinleipert/)
 
 </div>
