@@ -5,9 +5,9 @@ title: Curriculum Vitae
 
 <div class="two-columns">
   <img src="/images/CV-Foto.jpg" alt="Martin Leipert">
-  </div>
-  <div>
   
+  <div>
+
   # Martin Leipert
 
   **Researcher in Computed Tomography of Computer Science**  
@@ -48,4 +48,5 @@ title: Curriculum Vitae
   - **GitHub**: [github.com/yourgithub](https://github.com/martinleipert)
   - **LinkedIn**: (https://www.linkedin.com/in/martinleipert/)
 
+  </div>
 </div>
