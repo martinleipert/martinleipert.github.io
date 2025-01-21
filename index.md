@@ -4,9 +4,8 @@ title: Curriculum Vitae
 ---
 
 <div class="two-columns">
-  <img src="/images/CV-Foto.jpg" alt="Martin Leipert">
-  
-  <div>
+<img src="/images/CV-Foto.jpg" alt="Martin Leipert">
+<div>
 
 
     # Martin Leipert
@@ -50,5 +49,5 @@ title: Curriculum Vitae
     - **LinkedIn**: (https://www.linkedin.com/in/martinleipert/)
 
 
-  </div>
+</div>
 </div>
