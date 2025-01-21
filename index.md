@@ -5,6 +5,7 @@ title: Curriculum Vitae
 
 <div class="two-columns">
   <img src="/images/CV-Foto.jpg" alt="Martin Leipert">
+  </div>
   <div>
   # Martin Leipert
 
@@ -45,6 +46,4 @@ title: Curriculum Vitae
   - **Email**: your.email@example.com  
   - **GitHub**: [github.com/yourgithub](https://github.com/yourgithub)
 
-
-  </div>
 </div>
