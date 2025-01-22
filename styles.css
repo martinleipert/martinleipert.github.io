@@ -5,7 +5,7 @@ body {
     color: #333;
     width: 100%;
     max-width: 1600px;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 2rem;
     background-color: #f7f7f7;
 }
@@ -71,19 +71,23 @@ footer {
     display: flex;
     gap: 2rem;
     align-items: flex-start;
+    margin-left: auto;
+    margin-top: 2rem;
+    margin-right: auto;
     margin-bottom: 2rem;
+    
 }
 
 .two-columns img {
+    width: 40%;
     max-width: 600px;
     height: auto;
     border-radius: 8px;
     border: 3px solid #0056b3;
-    margin-right: auto;
-    margin-top: 100px;
 }
 
 .two-columns div {
+    width: 60%;
     flex: 1;
 }
 
