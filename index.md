@@ -1,9 +1,3 @@
----
-layout: default
-title: Curriculum Vitae
----
-
-
 
 # Martin Leipert
 
