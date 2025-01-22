@@ -1,4 +1,3 @@
-
 # Martin Leipert
 
 **Researcher in Computed Tomography of Computer Science**  
