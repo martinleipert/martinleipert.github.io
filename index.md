@@ -33,7 +33,34 @@ Medical Engineering | Computer Vision Expert
   Fraunhofer EZRT, Deggendorf (11/2019 - 01/2022)
 
 - **Working Student**  
-  Siemens Healthineers, Forchheim (05/2019 - 11/2017)
+  Siemens Healthineers, Forchheim (05/2019 - 09/2019)
+
+- **Master’s Thesis Student**  
+  Siemens Healthineers, Forchheim (12/2017 - 07/2018)
+
+- **Working Student**  
+  Siemens Healthineers, Forchheim (05/2016 - 11/2017)
+  - Tool developement for model-based robotic calibration 
+
+- **Bachelor’s Thesis Student**  
+  Siemens, Sektor Healthcare, Forchheim (10/2015 - 04/2016) 
+
+- **Working Student**  
+  Siemens, Sektor Healthcare, Forchheim (02/2015 - 09/2015)  
+  - Assisted in the evaluation of reproducibility experiments for robotic CT systems.
+
+- **Internship Semester**  
+  Siemens, Sektor Healthcare, Forchheim (09/2014 – 01/2015)
+  - Assisted in the evaluation of reproducibility experiments for robotic CT systems.
+
+- **Tutor**
+  TH Nuremberg, Nuremberg (10/2014 - 01/2015)
+  - Tutoring student in Electrical Engineering
+
+- **Working Student**
+  Siemens, Sektor Healthcare, Forchheim (04/2014 – 09/2014)
+  - Troubleshooting and evaluation for an algorithm for Digital Subtraction Angiography
+
 
 ## Publications
 1. **Leipert, M.**, Herl, G., Zabler, S., & Maier, A. (2024). Volumetric Instance Detection for Overlapping Shoes in Computed Tomography. *13th Conference on Industrial Computed Tomography (iCT) 2023*, 6–9 February 2024, School of Engineering, Wels Campus, Austria. *e-Journal of Nondestructive Testing*.
@@ -50,11 +77,15 @@ Medical Engineering | Computer Vision Expert
 
 ## Talks 
 
+- **
+
 ## Awards
 
 ## Skills
+  - Languages: German (native), English (mastery), Spanish (vantage)
+  - Programming: Python, C#, C++, C, Java, Matlab
 
 ## Contact
   - **Email**: martin.leipert@t-online.de
-  - **GitHub**: [github.com/yourgithub](https://github.com/martinleipert)
+  - **GitHub**: [github.com/martinleipert](https://github.com/martinleipert)
   - **LinkedIn**: (https://www.linkedin.com/in/martinleipert/)
