@@ -7,6 +7,8 @@ Medical Engineering | Computer Vision Expert
 - [Education](#education)
 - [Experience](#experience)
 - [Publications](#publications)
+- [Talks](#talks)
+- [Awards](#awards)
 - [Skills](#skills)
 - [Contact](#contact)
 
@@ -32,6 +34,14 @@ Medical Engineering | Computer Vision Expert
 
 - **Working Student**  
   Siemens Healthineers, Forchheim (05/2019 - 11/2017)
+
+## Publications
+
+## Talks 
+
+## Awards
+
+## Skills
 
 ## Contact
   - **Email**: martin.leipert@t-online.de
