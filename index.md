@@ -63,23 +63,44 @@ Medical Engineering | Computer Vision Expert
 
 
 ## Publications
-1. **Leipert, M.**, Herl, G., Zabler, S., & Maier, A. (2024). Volumetric Instance Detection for Overlapping Shoes in Computed Tomography. *13th Conference on Industrial Computed Tomography (iCT) 2023*, 6–9 February 2024, School of Engineering, Wels Campus, Austria. *e-Journal of Nondestructive Testing*.
+1. **Leipert, M.**, Herl, G., Zabler, S., & Maier, A. (2024). Volumetric Instance Detection for Overlapping Shoes in Computed Tomography. *13th Conference on Industrial Computed Tomography (iCT) 2023*, 6–9 February 2024, School of Engineering, Wels Campus, AT. *e-Journal of Nondestructive Testing*.
 
-2. M. T. Farooq, **M. Leipert**, A. Maier, and V. Christlein. "Ressource-Efficient Moth Detection for Pest Monitoring with YOLOv5," *2023 IEEE Symposium Series on Computational Intelligence (SSCI)*, Mexico City, Mexico, 2023, pp. 553–558.
+2. M. T. Farooq, **M. Leipert**, A. Maier, and V. Christlein. Ressource-Efficient Moth Detection for Pest Monitoring with YOLOv5, *2023 IEEE Symposium Series on Computational Intelligence (SSCI)*, Mexico City, MX, 2023, pp. 553–558.
 
 3. **Leipert, M.**, Herl, G., Müller, M., Meskemper, J., & Zabler, S. (2023). Automated Shoe Metrology by X-Ray Computed Tomography. In *Proceedings of the 3DBODY.TECH 2023 - 14th International Conference and Exhibition on 3D Body Scanning and Processing Technologies*. Lugano, CH.
 
-4. **Leipert, M.**, Herl, G., Stebani, J., Zabler, S., & Maier, A. (2023). Three Step Volumetric Segmentation for Automated Shoe Fitting. *12th Conference on Industrial Computed Tomography (iCT) 2023*, 27 February – 2 March 2023, Fürth, Germany. *e-Journal of Nondestructive Testing*, Vol. 28(3).
+4. **Leipert, M.**, Herl, G., Stebani, J., Zabler, S., & Maier, A. (2023). Three Step Volumetric Segmentation for Automated Shoe Fitting. *12th Conference on Industrial Computed Tomography (iCT) 2023*, 27 February – 2 March 2023, Fürth, DE. *e-Journal of Nondestructive Testing*, Vol. 28(3).
 
 5. **Leipert, M.**, Vogeler, G., Seuret, M., Maier, A., & Christlein, V. (2020). The Notary in the Haystack – Countering Class Imbalance in Document Processing with CNNs. In Bai, X., Karatzas, D., Lopresti, D. (Eds.), *Document Analysis Systems. DAS 2020. Lecture Notes in Computer Science* (Vol. 12116). Springer, Cham.
 
 6. **Leipert, M.**, Sadowski, J., Kießling, M., Ngandeu, E. K., & Maier, A. (2019). A Mixed Reality Simulation for Robotic Systems. In Handels, H., Deserno, T., Maier, A., Maier-Hein, K., Palm, C., & Tolxdorff, T. (Eds.), *Bildverarbeitung für die Medizin 2019. Informatik aktuell*. Springer Vieweg, Wiesbaden.
 
 ## Talks 
+- **Volumetric Instance Detection for Overlapping Shoes in Computed Tomography**
+  at the 14th industrial Computed Tomography conference 2024 in Wels, Austria 
 
-- **
+- **Automated Shoe Metrology by X-Ray Computed Tomography**
+  at the 14th International Conference and Exhibition on 3D Body Scanning and Processing Technologies in Lugano, Switzerland
+
+- **The Notary in the Haystack – Countering Class Imbalance in Document Processing with CNNs**
+  at the Document Analysis Systems Workshop 2020 in Wuhan, China
+
+## Posters 
+- **Three Step Volumetric Segmentation for Automated Shoe Fitting** 
+  at the 12th Conference on Industrial Computed Tomography in Fürth, Germany 
+
+- **A Mixed Reality Simulation for Robotic Systems**
+  at the Bildverarbeitung für die Medizin 2019 Workshop in Lübeck, Germany
 
 ## Awards
+- **Best Student Paper (Honourable Mention)** 
+  Document Analysis Systems Conference 2020 at Wuhan, China
+
+- **Faculty Award of efi**
+  Best Medical Engineering graduate in 2016, TH Nuremberg
+
+- **Most Innovative Project**
+  Innovation Research Lab Exhibition (2016, ZIMT, FAU Erlangen)
 
 ## Skills
   - Languages: German (native), English (mastery), Spanish (vantage)
