@@ -100,7 +100,7 @@ Medical Engineering | Computer Vision Expert
 - **Best Student Paper (Honourable Mention)** 
   Document Analysis Systems Conference 2020 at Wuhan, China
   
-  ![Best Student Paper Honorable Mention Martin Leipert](images/Best-Student-Paper-Honorable-Mention.jpg "Award at DAS 2020, Wuhan")
+  ![Best Student Paper Honorable Mention Martin Leipert](images/Best-Student-Paper-Honorable-Mention "Award at DAS 2020, Wuhan")
 
 - **Faculty Award of efi**
   Best Medical Engineering graduate in 2016, TH Nuremberg
