@@ -20,6 +20,10 @@ Medical Engineering | Computer Vision Expert
   FAU Erlangen-Nuremberg (Grade: 1.9)  
   Subjects: Medical Image Processing, Numerics, Machine Learning, etc.
 
+- **Semester abroad** (08/2018 - 12/2018)
+  Universidad de La Serena, La Serena, Chile 
+  Subjects: Project Evaluation, Web Developement, App Developement
+
 - **Electrical Engineering BSc** (04/2016-09/2016)
 
 - **Medical Engineering B.Eng.** (10/2012-04/2016)
@@ -107,6 +111,6 @@ Medical Engineering | Computer Vision Expert
   - Programming: Python, C#, C++, C, Java, Matlab
 
 ## Contact
-  - **Email**: martin.leipert@t-online.de
-  - **GitHub**: [github.com/martinleipert](https://github.com/martinleipert)
-  - **LinkedIn**: (https://www.linkedin.com/in/martinleipert/)
+  - **Email**: [martin.leipert@t-online.de](mailto:martin.leipert@t-online.de)
+  - **GitHub**: [martinleipert](https://github.com/martinleipert)
+  - **LinkedIn**: [martinleipert](https://www.linkedin.com/in/martinleipert/)
